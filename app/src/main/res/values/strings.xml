@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="name_surname">Hassan Tahir</string>
+    <string name="business">Machine Learning Engineer</string>
+    <string name="phone_number">+923034624939</string>
+    <string name="email_text">iamhassantahir@gmail.com</string>
+    <string name="share_text">@11a55an</string>
+</resources>
