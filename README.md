@@ -7,8 +7,6 @@ BusinessCard is a straightforward Android app designed using Kotlin and Jetpack 
 - Include a photo on your business card
 - Share your business card via email or social media
 
-![Screenshot](screenshot.png)
-
 ## Getting Started
 1. Clone the repository using:
    ```
