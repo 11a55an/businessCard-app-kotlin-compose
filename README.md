@@ -12,7 +12,7 @@ BusinessCard is a straightforward Android app designed using Kotlin and Jetpack 
 ## Getting Started
 1. Clone the repository using:
    ```
-   sh git clone https://github.com/gentildpinto/BusinessCard.git
+   sh git clone https://github.com/11a55an/businessCard-app-kotlin-compose.git
    ```
    
 2. Open the project in Android Studio
@@ -23,7 +23,7 @@ BusinessCard is a straightforward Android app designed using Kotlin and Jetpack 
 - Jetpack Compose: UI toolkit
 
 ## Authors
-- Gentil Pinto (gentildpinto)
+- Hassan Tahir (@11a55an)
 
 ## Acknowledgments
 This project was inspired by the Google Codelab on Android Basics with Compose.
