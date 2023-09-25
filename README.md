@@ -23,7 +23,7 @@ BusinessCard is a straightforward Android app designed using Kotlin and Jetpack 
 - Jetpack Compose: UI toolkit
 
 ## Authors
-- Hassan Tahir ([@11a55an](https://github.com/11a55an))
+- Hassan Tahir ([https://github.com/11a55an](@11a55an))
 
 ## Acknowledgments
 This project was inspired by the Google Codelab on Android Basics with Compose.
